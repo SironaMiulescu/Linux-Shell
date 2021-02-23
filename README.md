@@ -11,6 +11,6 @@ The shell offers the following functionalities:\
   -also supporting multiple pipes, input & output redirection \
   -a farewell message is printed at the closing of the shell\
   
- The three commands behave like the three linux commands. Minor adjustments have been made at dirname to print the current directory if no string was given 
+ The three commands are meant to immitate the behaviour of the linux commands, but minor adjustments have been made. For example to dirname was added the possibility to print the current directory if no string was given.
  
- The shell and the commands were implemented for the Operating Systems assignment, lecture held at West University of Timişoara.
+ The shell and the commands were implemented for the Computer Science lecture in year 2,Operating Systems, lecture held at West University of Timişoara.
