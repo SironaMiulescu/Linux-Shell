@@ -3,7 +3,7 @@ This repository contains a basic linux shell with three other commands, namely c
 
 The shell runs by entering  "gcc -o myShell myShell.c -lreadline tee.c cp.c dirname.c" in the terminal 
 
-The shell offers the following functionalities:
+The shell offers the following functionalities:\
   -searching through past commands by using up and down arrow keys;\
   -exiting on entering the 'exit' command\
   -it offers some help regarding the usage of the  three commands. This is done by entering the 'help' command\
